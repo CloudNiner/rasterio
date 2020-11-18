@@ -8,6 +8,7 @@ Advanced Topics
    color
    concurrency
    configuration
+   coregistration
    datasets
    errors
    features
@@ -31,4 +32,3 @@ Advanced Topics
    vsi
    windowed-rw
    writing
-
